@@ -14,3 +14,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+h1 {
+  color: blue;
+}
+nav {
+  color: red;
+}
